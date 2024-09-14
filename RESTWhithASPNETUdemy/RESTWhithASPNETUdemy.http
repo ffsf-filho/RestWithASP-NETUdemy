@@ -1,6 +1,6 @@
 @RESTWhithASPNETUdemy_HostAddress = http://localhost:5283
 
-GET {{RESTWhithASPNETUdemy_HostAddress}}/weatherforecast/
+GET {{RESTWhithASPNETUdemy_HostAddress}}
 Accept: application/json
 
 ###
